@@ -165,7 +165,7 @@ We can successfully control EIP.
 
 ## BadChars
 
-Once those steps are complete, run script number 3 and verify the bad characters using the following mona syntax.
+Once those steps are complete, run script number 3. 
 
 ```python
 #Generates workin directory
@@ -204,7 +204,7 @@ s.close()
 ```
 </details>
 
-Once those steps are complete run script number 3 and verify the bad characters using the following mona syntax.
+Verify the bad characters using the following mona syntax.
 
 ```python
 !mona compare -a esp -f C:\mona\oscp\bytearray.bin
