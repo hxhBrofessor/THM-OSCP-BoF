@@ -9,8 +9,7 @@ There are several ways to skin the cat, and ultimately it comes down to what wor
 	- 1-ver.py
 	- 2-eipOverwrite.py
 	- 3-badChars.py
-	- 4-jumper.py (used for testing your breakpoint. Optional)
-	- 5-Final-Exploit
+	- 4-Final-Exploit
 
 * * *
 
