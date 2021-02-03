@@ -220,6 +220,7 @@ result: 00 07 08 2e 2f a0 a1
 ## Finding our JMP ESP
 To find JMP ESP of the program, in MONA run the following comamnds below.
 ```python
+!mona modules
 !mona jmp -r esp -cpb \x00
 #clicked the first one that met all off the conditions required and followed in to dissasembler
 ```
